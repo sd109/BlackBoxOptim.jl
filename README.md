@@ -1,5 +1,5 @@
 BlackBoxOptim.jl
-==============
+===============
 
 [![Build Status](https://travis-ci.com/robertfeldt/BlackBoxOptim.jl.svg?branch=master)](https://travis-ci.com/robertfeldt/BlackBoxOptim.jl)
 
